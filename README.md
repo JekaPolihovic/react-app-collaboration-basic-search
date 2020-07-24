@@ -1,7 +1,7 @@
 ## React-App-Collaboration-Basic-Search
 
+<img src="https://github.com/JekaPolihovic/react-app-collaboration-basic-search/blob/master/demo/animation-gif-peek.gif" width=80% height=80%>
 ![React-App-Collaboration-Basic-Search](demo/animation-gif-peek.gif)
-<img src="https://github.com/JekaPolihovic/react-app-collaboration-basic-search/blob/master/demo/animation-gif-peek.gif" width=50% height=50%>
 
 
 ## In the project directory, you can run:
