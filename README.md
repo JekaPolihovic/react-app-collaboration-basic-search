@@ -1,5 +1,5 @@
 ## Available Scripts
-![React-App-Collaboration-Basic-Search](demo/animation-gif-peek.gif | width=100)
+![React-App-Collaboration-Basic-Search](demo/animation-gif-peek.gif){:height="700px" width="400px"}
 
 In the project directory, you can run:
 
