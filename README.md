@@ -1,6 +1,7 @@
 ## Available Scripts
 
 ![React-App-Collaboration-Basic-Search](demo/animation-gif-peek.gif)
+[[https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png|width=100px]]
 
 
 In the project directory, you can run:
