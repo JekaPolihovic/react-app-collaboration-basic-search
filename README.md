@@ -1,6 +1,8 @@
 ## Available Scripts
 
-![React-App-Collaboration-Basic-Search](demo/animation-gif-peek.gif)
+{:refdef: style="width: 10px; height: 10px"}
+[![React-App-Collaboration-Basic-Search](demo/animation-gif-peek.gif)](./somelink)
+{: refdef}
 
 
 In the project directory, you can run:
