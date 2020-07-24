@@ -1,6 +1,6 @@
 ## Available Scripts
 
-[![React-App-Collaboration-Basic-Search](demo/animation-gif-peek.gif)](./https://jekapolihovic.github.io/react-app-collaboration-basic-search/)
+[![React-App-Collaboration-Basic-Search](demo/animation-gif-peek.gif)](./react-app-collaboration-basic-search/)
 
 
 In the project directory, you can run:
