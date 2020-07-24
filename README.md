@@ -1,9 +1,9 @@
-## Available Scripts
+## React-App-Collaboration-Basic-Search
 
 ![React-App-Collaboration-Basic-Search](demo/animation-gif-peek.gif)
 
 
-In the project directory, you can run:
+## In the project directory, you can run:
 
 ### `npm start`
 
