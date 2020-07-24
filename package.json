@@ -1,4 +1,5 @@
 {
+  "homepage": "https://jekapolihovic.github.io/react-app-collaboration-basic-search/",
   "name": "my-app",
   "version": "0.1.0",
   "private": true,
@@ -18,6 +19,8 @@
     "typescript": "^3.7.5"
   },
   "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
